@@ -1,0 +1,11 @@
+body {
+    padding: 0; margin: 0;
+}
+
+main {
+    min-height: 100vh; flex-grow: 1
+}
+
+p {
+    margin: 0
+}
